@@ -1,0 +1,6 @@
+This is feature A content
+
+Conflict line from develop branch
+
+Conflict line from feature branch
+
